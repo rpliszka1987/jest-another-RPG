@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "RPG Fighting Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpliszka1987/jest-another-RPG.git"
+  },
+  "author": "Robert P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpliszka1987/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/rpliszka1987/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
